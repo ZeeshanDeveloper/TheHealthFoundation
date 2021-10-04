@@ -1,0 +1,1435 @@
+.logo-mobile{
+    display: none;
+}
+.mobile-nav{
+    display: none;
+}
+/*Media - Stylesheet*/
+@media (min-width: 1220px) and (max-width: 1370px) {
+    .navbar-links .main-list li a{
+        padding: 41px 10px;
+        font-size: 14px;
+    }
+    .cus-nav .left{
+        margin-bottom: -22px;
+        padding-left: 22px;
+    }
+    .cus-nav .right{
+        margin-right: -1.3%;
+    }
+    .cus-nav .right .donate-btn a{
+        padding: 50px 0px;
+        font-size: 16px;    
+    }
+    .cus-nav .right .search-btn a {
+        padding: 47px 37px;
+    }
+    .home-text h1{
+        font-size: 1.8rem;
+    }
+    .home-subscribe ul li a{
+        padding: 23px 0px;
+    }
+    .home-subscribe ul li a img {
+        height: 28px;
+    }
+    .home-subscribe .envel {
+        padding: 22px 0px;
+        height: 74px;
+    }
+    .home-links ul li a{
+        padding: 18px 19px;
+        font-size: 14px;
+    }
+    .home-footer .member{
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .home-donate .tit {
+        font-size: 14px;
+    }
+    /*header*/
+    .header{
+        padding-top: 190px;
+    }
+    .header p {
+        font-size: 12px;
+        padding: 12px 0px;
+    }
+    .header h1{
+        font-size: 1.3rem;
+        padding-top: 8px;
+        padding-bottom: 6px;
+    }
+    .header .arrow-right{
+        padding: 13px 0px;
+        width: 16px;
+    }
+    /*about scope*/
+    .about-text .bold {
+        font-size: 1.2rem;
+        line-height: 26px;
+    }
+    .about-text h2{
+        font-size: 1.5rem;
+        margin-bottom: 21px;
+    }
+    .about-mission .top h3{
+        font-size: 25px;
+        line-height: 46px;
+    }
+    .about-mission .top h3 span{
+        font-size: 81px;
+    }
+    .about-mission .boxs .img span {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .about-mission .boxs .text {
+        margin-top: 24px;
+    }
+    .about-mission .boxs .center{
+        padding: 20px 22px;
+    }
+    .about-full-img h4{
+        font-size: 1.6rem;
+    }
+    .about-full-img h4 span {
+        border-bottom: 6px solid #41a3d3;
+    }
+    .about-partners .top h5{
+        font-size: 1.3rem;
+    }
+    .about-partners .carousel-box .left img,
+    .about-partners .carousel-box .right img{
+        width: 18px;
+    }
+    /*page title*/
+    .pge-tit{
+        padding: 0px 4.5%;
+        padding-bottom: 24px;
+    }
+    .pge-tit h1 {
+        font-size: 1.2rem;
+        padding: 10px 0px;
+        padding-right: 10px;
+    }
+    .pge-tit h1 img{
+        width: 32px;
+    }
+    .pge-tit .purp-btn {
+        padding: 6px 16px;
+        font-size: 14px;
+        margin: 6px 0px;
+    }
+    .docmentari-head h2{
+        font-size: 30px;
+    }
+    .home-zakat .messages .col-md-6{
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .home-zakat .messages p {
+        font-size: 15px;
+    }
+    /*directors*/
+    .directors .director-box .img{
+        padding: 7px;
+    }
+    .directors .director-box{
+        grid-column-gap: 40px;
+    }
+    .directors .director-box .name{
+        font-size: 16px;
+    }
+    .directors .director-box .desig{
+        font-size: 15px;
+    }
+    .directors .member-box{
+        grid-column-gap: 20px;
+    }
+    .bold-line p {
+        font-size: 1.4rem;
+    }
+    .chairman .chairman-box .bold{
+        font-size: 15px;
+    }
+    .chairman .chairman-box .disc {
+        font-size: 14px;
+    }
+    .heapti-box .bold {
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .heapti-box .causes-box .big {
+        font-size: 16px;
+    }
+    .heapti-box .causes-box .cause-head {
+        font-size: 4.0rem;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    }
+    .heapti-box .causes-box .cause-head::after{
+        width: 108px;
+        height: 10px;
+    }
+    .heapti-box h2 {
+        font-size: 1.3rem;
+    }
+    .urdu-box .causes-box .cause-head {
+        font-size: 2rem;
+      }
+    .text-based {
+        padding: 40px 0px;
+    }
+    .press-imgs{
+        padding-bottom: 30px;
+    }
+    .tvc-box .tvcs .left .boxs .rgt .tit {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .tvc-box .tvcs .left .boxs .rgt .dis {
+        font-size: 12px;
+    }
+    /*activity*/
+    .activity-box .sm-heading {
+        font-size: 1.4rem;
+    }
+    .activity-box .bold{
+        font-size: 15px;
+    }
+    .activity-box .special {
+        font-size: 14px !important;
+        line-height: 17px;
+    }
+    .reports-box .report p {
+        font-size: 13px;
+    }
+    .reports-box .report .name{
+        padding: 11.5px 0px;
+        padding-left: 12px;
+    }
+    .reports-box .report a{
+        padding: 7px 0px;
+    }
+    /*caption box*/
+    .caption-box{
+        margin-top: -15px;
+        margin-bottom: 25px;
+    }
+}
+@media (min-width: 0px) and (max-width: 1024px) {
+    .hide-1024{
+        display: none;
+    }
+    .navbar-links{
+        display: none;
+    }
+    .cus-nav .container-cus{
+        padding-top: 30px;
+        margin-top: -31px;
+    }
+    .cus-nav .left {
+        width: 38%;
+    }
+    .cus-nav .left a{
+        float: left;
+    }
+    .cus-nav .left .logo-desktop{
+        display: none;
+    }
+    .cus-nav .left .logo-mobile{
+        display: block;
+    }
+    .cus-nav .right .donate-btn a{
+        padding: 28px 0px;
+        font-size: 16px;
+    }
+    .cus-nav .right .search-btn a{
+        padding: 28px 0px;
+    }
+    .cus-nav .right .search-btn a img{
+        width: 20px;
+    }
+    .mobile-nav{
+        float: left;
+        padding: 7px 7px;
+        font-size: 22px;
+        border: 1px solid rgb(17 17 17 / 40%);
+        margin: 20px 0px;
+        margin-right: 18px;
+        border-radius: 3px;
+        display: block;
+    }
+    .mobile-nav svg{
+        display: block;
+    }
+    .slider .slider-arrows img {
+        width: 45px;
+    }
+    .home-text{
+        padding: 30px 0px;
+    }
+    .home-text h1{
+        font-size: 1.6rem;
+        letter-spacing: 6px;
+        margin-bottom: 26px;
+    }
+    .home-text h1 span{
+        font-size: 1.2rem;
+        letter-spacing: 5px;
+    }
+    .home-text .big {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .home-stories{
+        padding: 0px 3.35%;
+        padding-bottom: 45px;
+    }
+    .home-stories::after{
+        height: 50%;
+    }
+    .home-stories h2{
+        padding: 30px 0px;
+    }
+    .home-stories .box a{
+        padding: 35px 0px;
+    }
+    .home-activities{
+        padding: 40px 0px;
+    }
+    .home-activities .top{
+        padding-bottom: 30px;
+    }
+    .home-activities .grid-activ .disc {
+        padding: 15px 25px;
+    }
+    .home-activities .grid-activ .disc p {
+        font-size: 13px;
+    }
+    .home-activities .grid-activ .disc a{
+        margin-top: 11px;
+        font-size: 13px;
+    }
+    .home-banner{
+        padding-bottom: 40px;
+    }
+    .home-num{
+        padding: 40px 0px;
+    }
+    .home-num .top{
+        padding-bottom: 40px;
+    }
+    .home-num .top h4{
+        font-size: 1.4rem;
+    }
+    .home-num .numbox {
+        padding: 0px 3.35%;
+    }
+    .home-num .numbox .num {
+        font-size: 30px;
+    }
+    .home-logo {
+        padding: 40px 0px;
+    }
+    .home-logo .top{
+        padding-bottom: 20px;
+    }
+    .home-logo .top h4{
+        font-size: 1.4rem;
+        text-align: center;
+    }
+    .home-logo .logos {
+        padding: 0px 20%;
+        grid-template-columns: repeat(4,1fr);
+    }
+    .home-zakat{
+        padding: 40px 0px;
+    }
+    .home-zakat .top {
+        padding: 0px 3.35%;
+        padding-bottom: 40px;
+    }
+    .home-zakat .top h4 {
+        font-size: 4.8rem;
+        line-height: 65px;
+    }
+    .home-zakat .top h4 span{
+        font-size: 68px;
+    }
+    .home-zakat .top .disc {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .home-zakat .top .blue-btn{
+        padding: 10px 44px;
+        font-size: 17px;
+        margin-top: 14px;
+    }
+    .home-zakat .messages {
+        padding: 0px 3.35%;
+    }
+    .home-zakat .messages .col-md-6{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .home-zakat .messages p{
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    .home-donate{
+        padding: 60px 3.35%;
+    }
+    .home-donate .tit {
+        font-size: 15px;
+    }
+    .home-donate p {
+        font-size: 13px;
+    }
+    .home-subscribe{
+        padding: 12px 3.35%;
+    }
+    .home-subscribe ul li a img {
+        height: 25px;
+    }
+    .home-subscribe .envel {
+        padding: 20px 0px;
+        width: 33px;
+    }
+    .home-subscribe .subs-box{
+        padding: 12px 18px;
+        padding-right: 0px;
+    }
+    .home-subscribe .subs-box input {
+        width: 68%;
+    }
+    .home-subscribe .subs-box a{
+        padding: 7px 0px;
+        font-size: 16px;
+    }
+    .home-black {
+        height: 30px;
+    }
+    .home-links ul li a{
+        font-size: 14px;
+        padding: 19px 10px;
+    }
+    .home-footer .copy{
+        text-align: right;
+    }
+    .justify-content-mobile{
+        -ms-flex-pack: center!important;
+        justify-content: center!important;
+    }
+    /*header*/
+    .header{
+        padding-top: 140px;
+    }
+    .header h1{
+        font-size: 1.2rem;
+    }
+    .header .arrow-right{
+        width: 16px;
+    }
+    .header p {
+        font-size: 12px;
+    }
+    .about-text {
+        padding: 30px 3.3%;
+    }
+    .about-text h2 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+    }
+    .about-text .disc {
+        font-size: 14px;
+    }
+    .about-text .bold {
+        font-size: 1.2rem;
+        line-height: 22px;
+        font-weight: 600;
+    }
+    .about-mission .top h3{
+        font-size: 20px;
+        line-height: 46px;
+    }
+    .about-mission .top h3 span{
+        font-size: 65px;
+    }
+    .about-mission .boxs .img img{
+        width: 80px;
+        height: 80px;
+    }
+    .about-mission .boxs .img span{
+        font-size: 17px;
+        margin-left: 10px;
+    }
+    .about-mission .boxs .left{
+        padding-right: 35px;
+    }
+    .about-mission .boxs .right {
+        padding-left: 35px;
+    }
+    .about-mission .boxs .text p{
+        font-size: 14px;
+    }
+    .about-mission .boxs .center{
+        padding: 18px 20px;
+    }
+    .about-partners .top h5{
+        font-size: 1.4rem;
+    }
+    /*dircetors*/
+    .pge-tit h1 {
+        font-size: 1.4rem;
+    }
+    .pge-tit .purp-btn{
+        padding: 7px 18px;
+        font-size: 13px;
+        margin: 5px 0px;
+        margin-right: 50px;
+    }
+    .directors .director-box{
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 30px;
+    }
+    .chairman .chairman-box .name{
+        font-size: 20px;
+    }
+    .heapti-box .causes-box .cause-head {
+        font-size: 2.4rem;
+        line-height: 16px;
+        padding-bottom: 35px;
+        margin-bottom: 19px;
+    }
+    .heapti-box .causes-box .cause-head::after {
+        width: 94px;
+        height: 9px;
+    }
+    .heapti-box .causes-box .big {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .heapti-box .bold {
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .heapti-box h2 {
+        font-size: 1.2rem;
+    }
+    .urdu-box .causes-box .cause-head {
+        font-size: 1.5rem;
+    }
+    .pge-tit{
+        padding: 0px 5%;
+        padding-bottom: 30px;
+    }
+    .press-imgs{
+        padding-bottom: 30px;
+    }
+    .docmentari-head h2{
+        font-size: 28px;
+    }
+    .media-videos ul{
+        margin-top: 30px;
+    }
+    .media-videos{
+        padding-bottom: 40px;
+    }
+    .tvc-box .top .box h5{
+        font-size: 16px;
+    }
+    .tvc-box .tvcs {
+        padding: 25px 4.3%;
+    }
+    .tvc-box .tvcs .left .boxs{
+        width: 50%;
+        float: left;
+    }
+    .tvc-box .tvcs .left{
+        width: 100%;
+    }
+    .tvc-box .tvcs .right {
+        width: 100%;
+    }
+    .tvc-box .tvcs .left .boxs .lft {
+        width: 45%;
+    }
+    .tvc-box .tvcs .left .boxs .rgt{
+        width: 50%;
+    }
+    .tvc-box .tvcs .left .boxs .rgt .tit{
+        margin-top: 0px;
+        margin-bottom: 8px;
+    }
+    .bold-line p {
+        font-size: 1.3rem;
+    }
+    .activity-box .sm-heading {
+        font-size: 1.4rem;
+    }
+    .activity-box .bold {
+        font-weight: 600;
+    }
+    .activity-box .special {
+        padding: 20px 26px;
+        line-height: 22px;
+        font-size: 17px;
+    }
+    /*hepatitus box*/
+    .hepati-box{
+        grid-template-columns: repeat(5, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+    }
+    .symtom-box {
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 16px;
+    }
+    .symtom-box .full-row {
+        grid-column: 1 / 4;
+        grid-template-columns: 1fr 2fr;
+        grid-gap: 16px;
+    }
+    /*caption*/
+    .caption-box {
+        width: 100%;
+        margin-top: -0px;
+        margin-bottom: 30px;
+    }
+    .caption-box p{
+        font-size: 14px;
+    }
+    .media-deatil-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 0px) and (max-width: 769px) {
+    .hide-768{
+        display: none;
+    }
+    .mbl-nav .box {
+        width: 46%;
+    }
+    .cus-nav .container-cus{
+        -ms-transform: skewX(0deg);
+    transform: skewy(0deg);
+    border-bottom-left-radius: 15px;
+    }
+    .cus-nav .box {
+        transform: skewy(0deg);
+        -ms-transform: skewX(0deg);
+    }
+    .cus-nav .left {
+        width: 50%;
+        margin-bottom: 0px;
+        padding-top: 20px;
+    }
+    .cus-nav .right{
+        transform: skewX(0deg);
+        -ms-transform: skewX(0deg);
+        margin-right: -2px;
+        width: 22%;
+    }
+    .cus-nav .right .donate-btn a {
+        padding: 41px 0px;
+    }
+    .cus-nav .right .donate-btn a span{
+        transform: skewX(0deg);
+        -ms-transform: skewX(0deg);
+    }
+    .cus-nav .right .search-btn a {
+        padding: 41px 0px;
+    }
+    .cus-nav .right .search-btn a span{
+        transform: skewX(0deg);
+        -ms-transform: skewX(0deg);
+    }
+    .mobile-nav{
+        margin: 21px 0px;
+        margin-right: 18px;
+    }
+    .home-text {
+        padding: 30px 3.35%;
+    }
+    .home-text h1 {
+        font-size: 1.2rem;
+        letter-spacing: 5px;
+    }
+    .home-text h1 span {
+        font-size: 1rem;
+    }
+    .home-text .big {
+        font-size: 15px;
+    }
+    .home-text p{
+        font-size: 14px;
+    }
+    .home-stories{
+        padding-bottom: 36px;
+    }
+    .home-stories h2 {
+        padding: 20px 0px;
+        font-size: 1.3rem;
+    }
+    .home-stories h2 span{
+        font-size: 15px;
+    }
+    .home-stories .box .pic {
+        width: 100px;
+    }
+    .home-stories .box a {
+        padding: 10px 0px;
+    }
+    .home-stories .box .name{
+        font-size: 14px;
+    }
+    .home-stories .box .name span{
+        font-size: 13px;
+    }
+    .home-activities {
+        padding: 30px 0px;
+    }
+    .home-activities .top {
+        padding-bottom: 20px;
+    }
+    .home-banner {
+        padding-bottom: 30px;
+    }
+    .home-num {
+        padding: 30px 0px;
+    }
+    .home-num::after{
+        height: 60%;
+    }
+    .home-num .numbox .box{
+        padding: 8px 0px;
+    }
+    .home-logo {
+        padding: 30px 0px;
+    }
+    .home-logo .top h4 {
+        font-size: 1.2rem;
+    }
+    .home-logo .logos {
+        padding: 0px 5%;
+    }
+    .home-zakat {
+        padding: 30px 0px;
+    }
+    .home-zakat .top {
+        text-align: center;
+    }
+    .home-zakat .top h4{
+        font-size: 2.8rem;
+        text-align: center;
+    }
+    .home-zakat .top h4 span{
+        font-size: inherit;
+    }
+    .home-zakat .top .blue-btn{
+        padding: 9px 37px;
+        font-size: 14px;
+    }
+    .home-zakat .messages {
+        padding: 0px 22.35%;
+    }
+    .home-zakat .messages .img .pic{
+        border: 10px solid #41a3d3;
+    }
+    .home-zakat .messages p {
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    .home-donate {
+        padding: 30px 3.35%;
+    }
+    .home-donate .col-md-6{
+        margin-bottom: 20px;
+    }
+    .home-donate .tit{
+        margin-bottom: 9px;
+    }
+    .home-subscribe ul{
+        text-align: center;
+    }
+    .home-subscribe ul li a{
+        padding: 14px 0px;
+        padding-top: 0px;
+    }
+    .home-links ul li a {
+        font-size: 13px;
+        padding: 19px 4px;
+    }
+    .cus-nav .box::before{
+        height: 5px;
+    }
+    .cus-nav .left{
+        width: 70%;
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+    .mobile-nav{
+        margin: 21px 0px;
+        margin-right: 8px;
+        font-size: 18px;
+        padding: 5px 5px;
+    }
+    /*header*/
+    .header {
+        padding-top: 110px;
+    }
+    .header p {
+        font-size: 11px;
+    }
+    .header h1{
+        font-size: 1rem;
+        text-align: right;
+    }
+    .about-text h2 {
+        font-size: 1.2rem;
+    }
+    .about-text .disc {
+        font-size: 13px;
+    }
+    .about-text .bold {
+        font-size: 1rem;
+        line-height: 18px;
+        margin-bottom: 34px;
+    }
+    .about-mission .top{
+        padding-bottom: 30px;
+    }
+    .about-mission .top h3 {
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .about-mission .top h3 span {
+        font-size: 58px;
+    }
+    .about-mission .top img {
+        float: none;
+        margin: auto;
+        display: block;
+        margin-top: 15px;
+    }
+    .about-mission .boxs .left {
+        padding-right: 0px;
+        text-align: center;
+        margin-top: 26px;
+    }
+    .about-mission .boxs .text{
+        text-align: left;
+    }
+    .about-mission .boxs .center{
+        margin: 25px 0px;
+    }
+    .about-mission .boxs .right{
+        text-align: center;
+        padding-left: 0px;
+    }
+    .about-full-img {
+        padding: 24px 3.3%;
+    }
+    .about-full-img h4{
+        font-size: 1.4rem;
+        font-weight: 700;
+    }
+    .about-full-img h4 span {
+        border-bottom: 6px solid #41a3d3;
+    }
+    .about-partners{
+        margin-bottom: 35px;
+    }
+    .about-partners .top h5{
+        font-size: 1.2rem;
+    }
+    .directors {
+        padding: 30px 0px;
+    }
+    .directors .director-box {
+        padding: 0px 5.1%;
+        grid-column-gap: 60px;
+    }
+    .directors .director-box .img{
+        padding: 7px;
+    }
+    .directors .director-box .name{
+        font-size: 16px;
+        margin-top: 12px;
+    }
+    .directors .director-box .desig {
+        font-size: 15px;
+        margin-bottom: 16px;
+    }
+    .bold-line p {
+        font-size: 1.1rem;
+        margin-top: 14px;
+    }
+    .pge-tit h1 img{
+        width: 30px;
+    }
+    .chairman .chairman-box .bold {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .chairman .chairman-box .disc {
+        font-size: 14px;
+    }
+    .chairman .chairman-box .img {
+        padding: 0px 20%;
+    }
+    .chairman .chairman-box .name {
+        font-size: 18px;
+    }
+    .header .dual-l .box .globe {
+        width: 25px;
+    }
+    .header .dual-l .box span{
+        font-size: 12px;
+    }
+    .text-based {
+        padding: 30px 0px;
+    }
+    .pge-tit{
+        padding-bottom: 20px;
+    }
+    .pge-tit h1 {
+        font-size: 1.1rem;
+        padding: 11px 0px;
+        padding-right: 15px;
+    }
+    .pge-tit .purp-btn {
+        padding: 5px 18px;
+        font-size: 13px;
+        margin: 8px 0px;
+        margin-right: 28px;
+    }
+    .pge-tit .sm-logo {
+        width: 45px;
+        margin-top: 4px;
+    }
+    .heapti-box .bold {
+    font-size: 14px;
+    }
+    .heapti-box h2 {
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+    }
+    .heapti-box p{
+        font-size: 14px;
+    }
+    .heapti-box ul li{
+        margin-bottom: 2px;
+        font-size: 14px;
+    }
+    .heapti-box .causes-box {
+        margin-top: 20px;
+    }
+    .heapti-box .causes-box .dark {
+        font-size: 14px;
+    }
+    .heapti-box .causes-box .cause-head {
+        font-size: 2.0rem;
+        padding-bottom: 26px;
+        margin-bottom: 12px;
+    }
+    .heapti-box .causes-box .big {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .urdu-box .causes-box .cause-head::after{
+        height: 6px;
+    }
+    .urdu-box .causes-box .cause-head {
+        font-size: 1.7rem;
+    }
+    .mg-bot-50{
+        margin-bottom: 30px;
+    }
+    .mg-bot-25 {
+        margin-bottom: 15px;
+    }
+    .press-imgs {
+        padding: 0px 3.5%;
+        padding-bottom: 25px;
+    }
+    .docmentari-head h2 {
+        font-size: 22px;
+    }
+    .docmentari-head h2::after{
+        width: 100px;
+        height: 6px;
+    }
+    .tvc-box .top .box h5 {
+        font-size: 15px;
+    }
+    .tvc-box .top .box .num p{
+        font-size: 16px;
+    }
+    .media-videos ul{
+        margin-top: 30px;
+    }
+    .media-videos ul li{
+        font-size: 14px;
+    }
+    .media-videos{
+        padding-bottom: 30px;
+    }
+    .tvc-box .tvcs .left .boxs {
+        width: 100%;
+    }
+    .tvc-box .tvcs .left{
+        margin-bottom: 15px;
+    }
+    .activity-box .sm-heading {
+        font-size: 1.2rem;
+    }
+    .activity-box .bold {
+        font-size: 16px;
+    }
+    .activity-box .bold {
+        font-size: 14px;
+    }
+    .activity-box p {
+        font-size: 14px;
+    }
+    .activity-box .activity-side-img {
+        padding: 0px 15%;
+        margin-top: 26px;
+    }
+    .activity-box .btn-box a{
+        font-size: 14px;
+        padding: 10px 50px;
+        margin-bottom: 30px;
+    }
+    .annual-report-box{
+        grid-template-columns: repeat(3,1fr);
+    }
+    .form-cus{
+        margin-bottom: 30px;
+    }
+    .header .dual-l{
+        width: 100%;
+    }
+    .header .dual-l .box{
+        text-align: center;
+    }
+    .header .dual-l .dropdown-cus{
+        left: 0px;
+        right: 0px;
+        width: 28%;
+        margin: auto;
+    }
+    .symtom-box {
+        grid-template-columns: repeat(4,1fr);
+    }
+    .symtom-box .full-row{
+        grid-gap: 30px;
+    }
+    /*caption*/
+    .activity-box p {
+        line-height: 18px;
+        font-weight: 400;
+    }
+    .media-deatil-grid{
+        grid-gap: 12px;
+        margin-bottom: 15px;
+    }
+}
+@media (min-width: 0px) and (max-width: 569px) {
+    .cus-nav .left .logo-mobile {
+        height: 72px;
+        padding: 6px 0px;
+    }
+    .cus-nav .right{
+        width: 30%;
+    }
+    .cus-nav .right .donate-btn a {
+        padding: 35px 0px;
+        font-size: 13px;
+    }
+    .cus-nav .right .search-btn a {
+        padding: 32px 0px;
+    }
+    .cus-nav .right .search-btn a img {
+        width: 15px;
+    }
+    .slider .img{
+        overflow: hidden;
+        width: 100%;
+    }
+    .slider img {
+        max-width: 150%;
+        width: 150% !important;
+        margin-left: -50%;
+    }
+    .slider .slider-arrows img{
+        width: 35px !important;
+        margin-left: -0%;
+    }
+    .home-text h1 {
+        font-size: 1.1rem;
+        letter-spacing: 4px;
+        margin-bottom: 18px;
+    }
+    .home-text h1 span {
+        font-size: 0.9rem;
+        letter-spacing: 2px;
+    }
+    .home-text .big {
+        font-size: 14px;
+    }
+    .home-text p {
+        font-size: 13px;
+    }
+    .home-stories .boxbox{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .home-stories .box{
+        border-bottom: 1px solid #ececec;
+    }
+    .home-activities .top h3{
+        text-align: center;
+    }
+    .home-activities .nav-icon-box{
+        float: none;
+        text-align: center;
+    }
+    .home-activities .nav-icon-box .nav-icon{
+        float: none;
+    }
+    .home-activities .nav-icon-box ul{
+        left: 0px;
+        margin: auto;
+    }
+    .home-activities .grid-activ .disc {
+        padding: 10px 10px;
+    }
+    .home-num .top {
+        padding-bottom: 30px;
+    }
+    .home-banner {
+        padding-bottom: 20px;
+    }
+    .home-logo .logos {
+        padding: 0px 7%;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .home-logo .logos a {
+        border: 1px solid #e0e0e0;
+    }
+    .home-zakat {
+        padding: 20px 0px;
+    }
+    .home-zakat .top h4 {
+        font-size: 1.5rem;
+        line-height: 35px;
+    }
+    .home-zakat .top .disc {
+        font-size: 14px;
+    }
+    .home-zakat .top .blue-btn {
+        padding: 8px 35px;
+        font-size: 14px;
+    }
+    .home-donate{
+        text-align: center;
+    }
+    .home-subscribe .envel{
+        padding: 20px 0px;
+        padding-bottom: 10px;
+        width: 33px;
+        margin: auto;
+        display: block;
+    }
+    .home-subscribe .subs-box input {
+        width: 62%;
+    }
+    .home-subscribe .subs-box a {
+        width: 38%;
+        font-size: 14px;
+    }
+    .home-black {
+        height: 14px;
+    }
+    .home-links{
+        padding: 0px 7%;
+    }
+    .home-links ul{
+        padding: 6px 0px;
+        text-align: left;
+        overflow: hidden;
+    }
+    .home-links ul li{
+        float: left;
+        width: 50%;
+    }
+    .home-links ul li a {
+        font-size: 13px;
+        padding: 6px 2px;
+    }
+    .home-footer{
+        text-align: center;
+    }
+    .home-footer .member {
+        font-weight: 500;
+    }
+    .home-footer .copy{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .home-subscribe ul li{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .mbl-nav .box{
+        width: 75%;
+    }
+    .mbl-nav .box ul li{
+        line-height: 17px;
+    }
+    .header p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .header .arrow-right{
+        display: none;
+    }
+    .about-mission .top{
+        padding-bottom: 25px;
+    }
+    .about-mission .top h3 {
+        font-size: 16px;
+    }
+    .about-mission .top h3 span {
+        font-size: 52px;
+    }
+    .about-full-img h4 {
+        font-size: 1.2rem;
+    }
+    .about-full-img h4 span {
+        border-bottom: 5px solid #41a3d3;
+    }
+    .about-partners .carousel-box .right img{
+        width: 16px;
+    }
+    .about-partners .carousel-box .left img{
+        width: 16px;
+    }
+    .reports-box .report a{
+        text-align: center;
+    }
+    .reports-box .report a img{
+        margin-right: 0px;
+    }
+    .reports-box .report a span{
+        display: block;
+        font-size: 13px;
+    }
+    /*directors*/
+    .header {
+        padding-top: 100px;
+    }
+    .header h1 {
+        font-size: 0.9rem;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .pge-tit{
+        padding: 0px 7%;
+        padding-bottom: 15px;
+    }
+    .pge-tit h1{
+        font-size: 1.2rem;
+        max-width: 80%;
+    }
+    .pge-tit .purp-btn{
+        display: none;
+    }
+    .directors {
+        padding: 30px 0px;
+    }
+    .directors .director-box {
+        padding: 0px 3.5%;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 20px;
+    }
+    .directors .director-box .img{
+        padding: 6px;
+    }
+    .directors .director-box .name{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .directors .director-box .desig{
+        font-size: 14px;
+    }
+    .pge-tit h1 img{
+        width: 36px;
+    }
+    .chairman {
+        padding: 30px 0px;
+    }
+    .chairman .chairman-box {
+        padding: 0px 2.0%;
+    }
+    .chairman .chairman-box .bold {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 16px;
+    }
+    .chairman .chairman-box .disc {
+        font-size: 14px;
+    }
+    .chairman .chairman-box .name {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .urdu-box .causes-box .cause-head {
+        font-size: 1.4rem;
+    }
+    .header .dual-l{
+        text-align: center;
+    width: 100%;
+    }
+    .header .dual-l .box {
+        text-align: center;
+    }
+    .header .dual-l .dropdown-cus{
+        left: 0px;
+    }
+    .pge-tit .sm-logo{
+        width: 40px;
+    }
+    .press-imgs{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .press-imgs .box {
+        border: 1px solid #e2e2e2;
+    }
+    .docmentari-head{
+        margin-bottom: 25px;
+    }
+    .docmentari-head h2 {
+        font-size: 26px;
+        padding: 18px 0px;
+    }
+    .docmentari-head h2::after{
+        height: 7px;
+        width: 100px;
+    }
+    .tvc-box .top .box h5{
+        padding: 17px 0px;
+        text-align: center;
+        width: 100%;
+        font-size: 15px;
+    }
+    .tvc-box .top .box .num {
+        float: right;
+        padding: 13.5px 0px;
+        width: 100%;
+        text-align: center;
+        padding-top: 0px;
+        display: none;
+    }
+    .tvc-box .top .box .tvc-icon{
+        float: none;
+        text-align: center;
+    }
+    .tvc-box .top .box .tvc-icon img {
+        float: none;
+    }
+    .tvc-box .top .box .tvc-icon span{
+        float: none;
+    }
+    .tvc-box .tvcs .left .boxs .lft {
+        width: 100%;
+    }
+    .tvc-box .tvcs .left .boxs .rgt{
+        width: 100%;
+    }
+    .tvc-box .tvcs .left .boxs .rgt .tit{
+        margin-bottom: 2px;
+        font-size: 14px;
+        margin-top: 9px;
+    }
+    .tvc-box .tvcs .left .boxs .rgt .dis {
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 5px;
+    }
+    .activity-box .sm-heading {
+        font-size: 1.1rem;
+    }
+    .activity-box .bold{
+        font-size: 14px;
+    }
+    .activity-box .activity-side-img {
+        padding: 0px 0%;
+    }
+    .activity-box p {
+        font-size: 14px;
+    }
+    .activity-box .btn-box{
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .annual-report-box{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .form-cus{
+        padding: 12px 16px;
+    }
+    .form-cus .input-row input{
+        height: 32px;
+    }
+    .form-cus .input-row .btn-contact{
+        padding: 7px 36px;
+    }
+    .contact-box {
+        margin-top: 26px;
+    }
+    .contact-box p{
+        font-size: 12px;
+    }
+    .contact-box span {
+        width: calc(100% - 55px);
+    }
+    .bold-line p {
+        font-size: 1.2rem;
+        PADDING: 0PX 5%;
+        LINE-HEIGHT: 26PX;
+    }
+    /*hepti box*/
+    .hepati-box {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .symtom-box {
+        grid-template-columns: repeat(2,1fr);
+    }
+    .symtom-box .full-row {
+        grid-column: 1 / 3;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 16px;
+    }
+    .symtom-box .full-row span{
+        padding: 0px 0px;
+    }
+    /*caption*/
+    .media-deatil-grid{
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+        margin-bottom: 0px;
+    }
+}
+@media (min-width: 0px) and (max-width: 360px) {
+}
